@@ -1,0 +1,49 @@
+.navigasyonBari
+{
+	background-color: teal;
+	
+
+}
+
+.navLinkleri
+{
+	color:white;
+	opacity: 0.7;
+
+}
+
+.navLinkleri:hover{
+	color:white;
+	opacity: 1;
+}
+
+.navbarBasligi
+{
+	color:white;
+
+	opacity: 1;
+}
+
+.navbarBasligi:hover{
+	color:white;
+	opacity: 1;
+}
+
+.vitrin{
+	background-color: teal !important;
+}
+
+
+.card {
+	border-radius: 10px !important;
+	border-color:teal  !important;
+}
+
+.muzeAramaCard .card-body{
+	text-decoration: none !important;
+}
+
+.iller ul li ul{
+	max-height:250px;/* you can change as you need it */
+   overflow:auto;/* to get scroll */
+}
